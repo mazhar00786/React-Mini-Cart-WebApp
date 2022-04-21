@@ -1,0 +1,32 @@
+1. npx create-react-app reactecom
+
+2. npm i react-router-dom
+
+3. npm install admin-lte@^3.2 --save
+
+4. npm install bootstrap
+
+5. npm i axios --save
+
+6. npm i sweetalert --save
+
+7. npm i @fortawesome/fontawesome-free --save
+
+
+
+
+…or create a new repository on the command line
+echo "# React-Mini-Cart-WebApp" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mazhar00786/React-Mini-Cart-WebApp.git
+git push -u origin main
+
+
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/mazhar00786/React-Mini-Cart-WebApp.git
+git branch -M main
+git push -u origin main
